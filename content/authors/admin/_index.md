@@ -33,12 +33,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: PhD in Computer Science
+      institution: Purdue University
+      year: 2020 - now
     - course: BSc in Computer Science
       institution: Nanjing Tech University
       year: 2019
