@@ -23,6 +23,40 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+
+        # - title: Research Assistant
+        #   company: Purdue University, Computer Science Department
+        #   company_url: ''
+        #   company_logo: purdue-university.svg
+        #   location: West Lafayette, IN, USA
+        #   date_start: '2021-08'
+        #   date_end: '2022-08'
+        #   description: |2-
+        #       Co-design of Virtual Creatures via Evolution
+        #       * Development of a virtual creature generator supporting random generation based on input rules and user constraints with Python.
+        #       * Implementation of a reinforcement learning algorithm (PPO) on Pytorch for parallel training of arbitrary virtual creatures’ locomotion.
+        #       * Proposed a novel pipeline for the parallel co-design of large-scale population creatures with evolutionary algorithm.
+        #       * Doubled the performance of creatures in locomotion tasks while significantly reducing computational resources. 
+        # - title: Research Assistant
+        #   company: Purdue University, Computer Graphics Technology
+        #   company_url: ''
+        #   company_logo: purdue-university.svg
+        #   location: West Lafayette, IN, USA
+        #   date_start: '2020-08'
+        #   date_end: '2021-08'
+        #   description: |2-
+        #       Bird Retina Droplet Detection
+        #       * Developed a tool for data cleaning for an unorganized dataset with different resolutions, backgrounds, and formats.
+        #       * Designed and implemented a bird retina droplet VGG - based detection model with high accuracy (86%) on average.
+        #       * Deployed the detection model on a local machine, integrating it into an application for easy real-time result editing.
+        - title: Teaching Assistant
+          company: Purdue University, Computer Science Department
+          company_url: ''
+          company_logo: purdue-university.svg
+          location: West Lafayette, IN, USA
+          date_start: '2021-08'
+          date_end: '2022-08'
+          description: Data Structure and Algorithms
         - title: CEO
           company: GenCoin
           company_url: ''
