@@ -64,12 +64,7 @@ sections:
           location: West Lafayette, IN, USA
           date_start: '2023-08-15'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: CS251 - Data Structure and Algorithms
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
