@@ -61,7 +61,7 @@ sections:
           company: Purdue University
           company_url: ''
           company_logo: purdue-university
-          location: California
+          location: West Lafayette, IN, USA
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
