@@ -49,16 +49,16 @@ sections:
         #       * Developed a tool for data cleaning for an unorganized dataset with different resolutions, backgrounds, and formats.
         #       * Designed and implemented a bird retina droplet VGG - based detection model with high accuracy (86%) on average.
         #       * Deployed the detection model on a local machine, integrating it into an application for easy real-time result editing.
+        # - title: Teaching Assistant
+        #   company: Purdue University, Computer Science Department
+        #   company_url: ''
+        #   company_logo: purdue-university
+        #   location: West Lafayette, IN, USA
+        #   date_start: '2021-08'
+        #   date_end: '2022-08'
+        #   description: Data Structure and Algorithms
         - title: Teaching Assistant
-          company: Purdue University, Computer Science Department
-          company_url: ''
-          company_logo: purdue-university
-          location: West Lafayette, IN, USA
-          date_start: '2021-08'
-          date_end: '2022-08'
-          description: Data Structure and Algorithms
-        - title: CEO
-          company: GenCoin
+          company: Purdue University
           company_url: ''
           company_logo: org-gc
           location: California
