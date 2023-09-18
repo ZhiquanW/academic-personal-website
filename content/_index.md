@@ -60,7 +60,7 @@ sections:
         - title: Teaching Assistant
           company: Purdue University
           company_url: ''
-          company_logo: org-gc
+          company_logo: purdue-university
           location: California
           date_start: '2021-01-01'
           date_end: ''
