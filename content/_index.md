@@ -68,7 +68,7 @@ sections:
           #     * Designed and implemented a bird retina droplet VGG - based detection model with high accuracy (86%) on average.
           #     * Deployed the detection model on a local machine, integrating it into an application for easy real-time result editing.
     design:
-      columns: '2'
+      columns: '1'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
