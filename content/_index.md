@@ -54,9 +54,9 @@ sections:
           date_end: ''
           description: CS251 - Data Structures and Algorithms
         - title: Research Assistant
-          company: Purdue University, Computer Science Department
+          company: Purdue University
           company_url: ''
-          company_logo: purdue-university.svg
+          company_logo: purdue-university
           location: West Lafayette, IN, USA
           date_start: '2021-08'
           date_end: '2022-08'
