@@ -41,8 +41,7 @@ sections:
           location: West Lafayette, IN, USA
           date_start: '2023-08-15'
           date_end: ''
-          description: |2- 
-            ### CS251 - Data Structures and Algorithms
+          description: CS251 - Data Structures and Algorithms
         - title: Research Assistant
           company: Purdue University, Department of Computer Science
           company_url: ''
