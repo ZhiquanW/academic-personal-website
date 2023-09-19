@@ -52,7 +52,8 @@ sections:
           location: West Lafayette, IN, USA
           date_start: '2023-08-15'
           date_end: ''
-          description: CS251 - Data Structures and Algorithms
+          description: |2- 
+            ### CS251 - Data Structures and Algorithms
         - title: Research Assistant
           company: Purdue University, Department of Computer Science
           company_url: ''
@@ -61,11 +62,11 @@ sections:
           date_start: '2021-08-15'
           date_end: '2022-08-15'
           description: |2-
-              # Co-design of Virtual Creatures via Evolution
-              * Development of a virtual creature generator supporting random generation based on input rules and user constraints with Python.
-              * Implementation of a reinforcement learning algorithm (PPO) on Pytorch for parallel training of arbitrary virtual creatures’ locomotion.
-              * Proposed a novel pipeline for the parallel co-design of large-scale population creatures with evolutionary algorithm.
-              * Doubled the performance of creatures in locomotion tasks while significantly reducing computational resources. 
+            ### Co-design of Virtual Creatures via Evolution
+            * Development of a virtual creature generator supporting random generation based on input rules and user constraints with Python.
+            * Implementation of a reinforcement learning algorithm (PPO) on Pytorch for parallel training of arbitrary virtual creatures’ locomotion.
+            * Proposed a novel pipeline for the parallel co-design of large-scale population creatures with evolutionary algorithm.
+            * Doubled the performance of creatures in locomotion tasks while significantly reducing computational resources. 
         # - title: Professor of Semiconductor Physics
         #   company: University X
         #   company_url: ''
