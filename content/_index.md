@@ -58,8 +58,8 @@ sections:
           company_url: ''
           company_logo: purdue-university
           location: West Lafayette, IN, USA
-          date_start: '2021-08'
-          date_end: '2022-08'
+          date_start: '2021-08-15'
+          date_end: '2022-08-15'
           description: AAA
           # |2-
           #     Co-design of Virtual Creatures via Evolution
