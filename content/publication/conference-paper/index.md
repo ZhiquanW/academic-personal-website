@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2020-11-01T00:00:00Z'
-doi: 'asdfasdfasdfasd'
+# doi: 'asdfasdfasdfasd'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9284702'
+url_pdf: https://ieeexplore.ieee.org/document/9284702
 # url_code: ''
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
