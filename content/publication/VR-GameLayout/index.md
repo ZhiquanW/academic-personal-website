@@ -1,5 +1,5 @@
 ---
-title: 'Virtual reality game level layout design for real environment constraints'
+title: 'Virtual Reality Racket Sports: Virtual Drills for Exercise and Training'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,15 +7,15 @@ title: 'Virtual reality game level layout design for real environment constraint
 authors:
   - Huimin Liu
   - admin
-  - Angshuman Mazumdar
   - Christos Mousas
+  - Dominic Kao
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-06-01T00:00:00Z'
+date: '2020-11-01T00:00:00Z'
 # doi: 'asdfasdfasdfasd'
 
 # Schedule page publish date (NOT publication's date).
@@ -25,13 +25,14 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Graphics and Visual Computing 4 (2021)
-publication_short: Graphics and Visual Computing 4 (2021)
+publication: 2020 IEEE International Symposium on Mixed and Augmented Reality
+publication_short: 2020 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)
 
-abstract: "This paper presents an optimization-based approach for designing virtual reality game level layouts, based on the layout of a real environment. Our method starts by asking the user to define the shape of the real environment and the obstacles (e.g., furniture) located in it. Then, by representing a game level as an assembly of chunks and defining the game level layout design decisions in cost terms (mapping, fitting, variations, and accessibility) in a total cost function, our system automatically synthesizes a game level layout that fulfills the real environment layout and its constraints as well as the user-defined design decisions. To evaluate the proposed method, a user study was conducted. The results indicated that the proposed method: (1) enhanced the levels of presence; (2) enhanced the levels of involvement of participants in the virtual environment; and (3) reduced the fear of collision with the real environment and its constraints. Limitations and future research directions are also discussed."
+abstract: We have developed a modular virtual reality gaming application that can be used to synthesize exercise drills for racket sports. By defining cost terms that are related to the gameplay and the mechanics of the game, as well as by allowing a user to control the parameters of the cost terms, users can easily adjust the objectives and the intensity levels of the exercise drills. Based on the user-defined exercise objectives, a Markov chain Monte Carlo optimization method called “simulated annealing” was used to optimize the exercise drill. The effectiveness of the developed virtual reality gaming application was measured in two studies by using virtual reality table tennis as the evaluation tool. The first study investigated the potential usefulness of the developed virtual reality gaming application as an exercise tool by comparing its workout effectiveness at three intensity levels (low, medium, and high) through the collection of heart rate readings. The second study explored the potential utility of the virtual reality gaming application as a training tool by exploring whether there was any improvement in participants' performance across the three conditions (no training, virtual reality training, and real-world training). The results indicate that a virtual reality gaming application, such as the examined virtual reality table tennis exergame, could indeed be used effectively as both an exercise and a training tool. Limitations and future research directions are discussed further below.
+
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -45,14 +46,14 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://www.sciencedirect.com/science/article/pii/S2666629421000036
+url_pdf: https://ieeexplore.ieee.org/document/9284702
 # url_code: ''
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
 # url_source: ''
-# url_video: 'https://www.youtube.com/watch?v=stCSTDlMjI4'
+url_video: 'https://www.youtube.com/watch?v=stCSTDlMjI4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
