@@ -155,6 +155,12 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
+        - name: Reinforcement Learning
+          tag: Reinforcement Learning
+        - name: Virtual Reality
+          tag: Virtual Reality 
+        - name: Character Animation
+          tag: Character Animation 
         - name: Other
           tag: Demo
     design:

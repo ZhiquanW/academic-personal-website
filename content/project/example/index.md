@@ -1,12 +1,18 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Co-design of Virtual Creatures via Evolution
+summary: |2-
+  * Development of a virtual creature generator supporting random generation based on input rules and user constraints with Python.
+  * Implementation of a reinforcement learning algorithm (PPO) on Pytorch for parallel training of arbitrary virtual creatures’ locomotion.
+  * Proposed a novel pipeline for the parallel co-design of large-scale population creatures with evolutionary algorithm.
+  * Doubled the performance of creatures in locomotion tasks while significantly reducing computational resources. 
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Reinforcement Learning
+  - Character Animation
+date: '2022-12-27T00:00:00Z'
 
-# Optional external URL for project (replaces project detail page).
-external_link: ''
+# # Optional external URL for project (replaces project detail page).
+# external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
