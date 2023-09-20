@@ -34,11 +34,10 @@ authors:
 
 tags:
   - Academic
-  - 开源
+  - Open Source
 
 categories:
   - Demo
-  - 教程
 ---
 
 ```python
