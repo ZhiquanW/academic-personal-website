@@ -235,11 +235,11 @@ sections:
         country: United States
         country_code: US
       directions: Enter Lawson Computer Science Building and take the stairs to Office 3151 on Floor 3
-      contact_links:
-        - icon: linkedin
-          icon_pack: fab
-          name: linkedin
-          link: 'https://www.linkedin.com/in/zhiquan-wang-877398178/'
+      # contact_links:
+      #   - icon: linkedin
+      #     icon_pack: fab
+      #     name: linkedin
+      #     link: 'https://www.linkedin.com/in/zhiquan-wang-877398178/'
         # - icon: skype
         #   icon_pack: fab
         #   name: Skype Me
