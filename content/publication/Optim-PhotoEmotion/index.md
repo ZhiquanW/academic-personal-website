@@ -1,24 +1,20 @@
 ---
-title: 'Multimodal Affective Pedagogical Agents for Different Types of Learners'
+title: 'Photo Sequences of Varying Emotion: Optimization with a Valence-Arousal Annotated Dataset'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Nicoletta Adamo
-  - Bedrich Benes
-  - Richard E. Mayer
-  - Xingyu Lei
+  - Christos Mousas
+  - Claudia Krogmeier
   - admin
-  - Zachary Meter
-  - Alyssa Lawson
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2020-01-01T00:00:00Z'
+date: '2021-07-01T00:00:00Z'
 # doi: 'asdfasdfasdfasd'
 
 # Schedule page publish date (NOT publication's date).
@@ -31,10 +27,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Intelligent Human Systems Integration 2021 
-publication_short: Intelligent Human Systems Integration 2021 (IHSI 2021)
+publication: ACM Transactions on Interactive Intelligent Systems, Volume 11, Issue 2, 2021
+publication_short: ACM Transactions on Interactive Intelligent Systems, Volume 11, Issue 2 (TiiS), 2021
 
-abstract: "The paper reports progress on an NSF-funded project whose goal is to research and develop multimodal affective animated pedagogical agents (APA) for different types of learners. Although the preponderance of research on APA tends to focus on the cognitive aspects of online learning, this project explores the less-studied role of affective features. More specifically, the objectives of the work are to: (1) research and develop novel algorithms for emotion recognition and for life-like emotion representation in embodied agents, which will be integrated in a new system for creating APA to be embedded in digital lessons; and (2) develop an empirically grounded research base that will guide the design of affective APA that are effective for different types of learners. This involves conducting a series of experiments to determine the effects of the agent’s emotional style and emotional intelligence on a diverse population of students. The paper outlines the work conducted so far, e.g., development of a new system (and underlying algorithms) for producing affective APA. It also reports the findings from two preliminary studies."
+abstract: "Synthesizing photo products such as photo strips and slideshows using a database of images is a time-consuming and tedious process that requires significant manual work. To overcome this limitation, we developed a method that automatically synthesizes photo sequences based on several design parameters. Our method considers the valence and arousal ratings of images in conjunction with parameters related to both the visual consistency of the synthesized photo sequence and the progression of valence and arousal throughout the photo sequence. Our method encodes valence, arousal, and visual consistency parameters as cost terms into a total cost function while applying a Markov chain Monte Carlo optimization techniques called simulated annealing to synthesize the photo sequence based on user-defined target objectives in a few seconds. As our method was developed for the synthesis of photo sequences using the valence-arousal emotional model, a user study was conducted to evaluate the efficacy of the synthesized photo sequences in triggering valence-arousal ratings as expected. Our results indicate that the proposed method synthesizes photo sequences in which valence and arousal dimensions are perceived as expected by participants; however, valence may be more appropriately perceived than arousal."
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -49,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: "https://link.springer.com/chapter/10.1007/978-3-030-68017-6_33"
+url_pdf: "https://dl.acm.org/doi/abs/10.1145/3458844?casa_token=UdPG59rd4EcAAAAA:5hl4S4kLzX_LZVXSj1Ko7nIlWbwunXGsqaM13ewZcc1df66tRih3X2CCgazz8h2RjZug1NgLyoq1"
 # url_code: ''
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
