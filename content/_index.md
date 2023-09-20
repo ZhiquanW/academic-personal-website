@@ -165,7 +165,7 @@ sections:
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -187,7 +187,7 @@ sections:
   #       featured_only: true
   #   design:
   #     columns: '2'
-      view: card
+      # view: card
   - block: collection
     content:
       title: Publications
