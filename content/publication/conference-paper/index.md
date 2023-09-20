@@ -6,7 +6,7 @@ title: 'Virtual Reality Racket Sports: Virtual Drills for Exercise and Training'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Huimin Liu
-  - Zhiquan Wang
+  - admin
   - Christos Mousas
   - Dominic Kao
 
@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2020-11-01T00:00:00Z'
-doi: ''
+doi: 'asdfasdfasdfasd'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -57,10 +57,10 @@ url_video: 'https://www.youtube.com/watch?v=stCSTDlMjI4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -78,7 +78,7 @@ image:
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -86,4 +86,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
